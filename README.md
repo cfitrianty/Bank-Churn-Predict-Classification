@@ -3,6 +3,9 @@
 About Dataset :
 This is the original data set of US bank customers.
 
+Link dataset :
+https://www.kaggle.com/datasets/shantanudhakadd/bank-customer-churn-prediction
+
 Challenge : 
 To get information for particular customer will leave the bank or not.
 
